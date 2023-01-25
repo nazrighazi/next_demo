@@ -17,7 +17,7 @@ const lato = Lato({
   display: "swap",
 });
 
-const SliderMain = (props) => {
+const SliderMain = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [loaded, setLoaded] = useState(false);
   const [sliderRef, instanceRef] = useKeenSlider({
