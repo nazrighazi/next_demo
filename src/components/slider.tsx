@@ -114,7 +114,7 @@ const SliderMain = () => {
                 </div>
                 <div className="pt-4 te">
                   PRYCE comes with two themes. Dealers are able to choose either
-                  Bluecube or Digi theme based on their preference.
+                  Bluecube or Digi theme based on their preferences.
                 </div>
               </div>
             </div>
